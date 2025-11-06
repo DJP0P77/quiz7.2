@@ -1,2 +1,2 @@
-# quiz7.2
-Quiz 7.2 for CS456
+# quiz7.1
+Quiz 7.1 for CS456
